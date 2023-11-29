@@ -2,8 +2,6 @@
 
 ## I'm beginner tester
 
-Latest YouTube Videos
-
 ### Languages and Tools
 ![Sql](https://img.shields.io/badge/-SQL-000000?style-for-the-badge&logo=mysql&logoColor=445ce1)
 
