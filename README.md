@@ -1,4 +1,4 @@
-[|[Header](https://github.com/alekslavl/alekslavl/blob/main/assets/1.jpg)](https://github.com/alekslavl)
+[![Header](https://github.com/alekslavl/alekslavl/blob/main/assets/1.jpg)](https://github.com/alekslavl)
 
 About me
 
